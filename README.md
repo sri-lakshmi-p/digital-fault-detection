@@ -44,4 +44,5 @@ Recovered information: 1011
 
 ## Requirements
 Python 3 and NumPy are required.
+
 Install NumPy using: pip install numpy
