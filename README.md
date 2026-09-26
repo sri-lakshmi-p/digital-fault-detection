@@ -29,12 +29,30 @@ The program follows these steps:
 9. Recovers the original information.
 
 ## Example
-Information vector: 1011
-Encoded codeword:  1011001
-After introducing an error: 1011101
-Error position:  5
-Corrected codeword: 1011001
-Recovered information: 1011
+
+Information vector:
+
+1011
+
+Encoded codeword:
+
+1011001
+
+After introducing an error:
+
+1011101
+
+Error position:
+
+5
+
+Corrected codeword:
+
+1011001
+
+Recovered information:
+
+1011
 
 ## Requirements
 Python 3 and NumPy are required.
